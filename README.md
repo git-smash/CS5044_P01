@@ -18,6 +18,7 @@ Assumptions:
 * Summary omits playback power use
 
 Sources:
+
     Personal & Class Carbon Emissions Results
     https://footprint.wwf.org.uk
 
